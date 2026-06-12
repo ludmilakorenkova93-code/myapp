@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.FootballSchemes" parent="android:style/Theme.Material.Light.NoActionBar" />
+</resources>
