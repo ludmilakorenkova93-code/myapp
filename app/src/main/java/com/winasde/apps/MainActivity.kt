@@ -754,9 +754,7 @@ private fun AnalysisPanel(
 
     ElevatedCard(modifier = modifier) {
         Column(
-            modifier = Modifier
-                .padding(14.dp)
-                .verticalScroll(rememberScrollState()),
+            modifier = Modifier.padding(14.dp),
             verticalArrangement = Arrangement.spacedBy(14.dp)
         ) {
             Text(
